@@ -1,2 +1,2 @@
 # TranslitRuToEn
-Translit Rus to Eng
+Translit Rus to Eng (PHP)
